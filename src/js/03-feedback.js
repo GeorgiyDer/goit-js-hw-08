@@ -43,5 +43,3 @@ function localFormSubmit(event) {
         emailArea.value = parsedStorage.email
     }
 }
-
-
